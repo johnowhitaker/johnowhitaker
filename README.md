@@ -1,10 +1,21 @@
 ### Jonathan Whitaker
 
-Hi There!
+Hi there!
 
-Guess who has finally got around to trying a custom README! This will be updated soon, but for now:
+Guess who has finally got around to trying a custom README! I'll hopefully be expanding this soon, but for now have some key links:
 
-Check out my blog: https://datasciencecastnet.home.blog/
+My blog: https://datasciencecastnet.home.blog/
+
+My CV website: https://johnowhitaker.github.io/
+
+Reach me on Twitter: https://twitter.com/johnowhitaker
+
+#### What I'm working on:
+- Teaching with iXperience (head teacher, Data Science 2020)
+- 'Data Science Educator' with ALU's AIIP program
+- Data Science Consultant
+- Data Scientist at Zindi.africa
+- Super Seret Side Hustle coming soon :)
 
 ...
 
