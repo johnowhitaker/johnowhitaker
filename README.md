@@ -1,4 +1,12 @@
-### Hi there 👋
+### Jonathan Whitaker
+
+Hi There!
+
+Guess who has finally got around to trying a custom README! This will be updated soon, but for now:
+
+Check out my blog: https://datasciencecastnet.home.blog/
+
+...
 
 <!--
 **johnowhitaker/johnowhitaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
