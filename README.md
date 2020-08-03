@@ -1,5 +1,7 @@
 ### Jonathan Whitaker
 
+![Profile Pic](https://raw.githubusercontent.com/johnowhitaker/johnowhitaker/master/prof.jpg "Profile Pic")
+
 Hi there!
 
 Guess who has finally got around to trying a custom README! I'll hopefully be expanding this soon, but for now have some key links:
