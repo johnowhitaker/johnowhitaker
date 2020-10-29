@@ -8,7 +8,7 @@ Guess who has finally got around to trying a custom README! I'll hopefully be ex
 
 My blog: https://datasciencecastnet.home.blog/
 
-My CV website: https://johnowhitaker.github.io/
+My CV website: https://johnowhitaker.github.io/cv/
 
 Reach me on Twitter: https://twitter.com/johnowhitaker
 
