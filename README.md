@@ -8,18 +8,9 @@ Guess who has finally got around to trying a custom README! I'll hopefully be ex
 
 My blog: https://datasciencecastnet.home.blog/
 
-My CV website: https://johnowhitaker.github.io/cv/
+My CV website: https://johnowhitaker.github.io/cv/ ([short PDF version](https://github.com/johnowhitaker/johnowhitaker/blob/master/Jonathan_Whitaker_CV_April_2022.pdf) which is more up-to-date)
 
 Reach me on Twitter: https://twitter.com/johnowhitaker
-
-#### What I'm working on:
-- Teaching with iXperience (head teacher, Data Science 2020)
-- 'Data Science Educator' with ALU's AIIP program
-- Data Science Consultant
-- Data Scientist at Zindi.africa
-- Super Seret Side Hustle coming soon :)
-
-...
 
 <!--
 **johnowhitaker/johnowhitaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
