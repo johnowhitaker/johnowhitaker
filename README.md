@@ -1,6 +1,6 @@
 ### Jonathan Whitaker
 
-![Profile Pic](https://raw.githubusercontent.com/johnowhitaker/johnowhitaker/master/prof.jpg "Profile Pic")
+<img src="https://raw.githubusercontent.com/johnowhitaker/johnowhitaker/master/prof_small.jpg" width="400" height="300" alt='profile pic'/>
 
 Hi there!
 
@@ -8,21 +8,11 @@ Guess who has finally got around to trying a custom README! I'll hopefully be ex
 
 My blog: https://datasciencecastnet.home.blog/
 
-My CV website: https://johnowhitaker.github.io/cv/ ([short PDF version](https://github.com/johnowhitaker/johnowhitaker/blob/master/Jonathan_Whitaker_CV_April_2022.pdf) which is more up-to-date)
+My CV: [PDF version](https://github.com/johnowhitaker/johnowhitaker/blob/master/Jonathan_Whitaker_CV_April_2022.pdf) (slightly outdated CV website with more details: https://johnowhitaker.github.io/cv/) 
 
 Reach me on Twitter: https://twitter.com/johnowhitaker
 
-<!--
-**johnowhitaker/johnowhitaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Last year in code activity (April 2021 - March 2022, data from my uLogMe logs):
+<img src="https://github.com/johnowhitaker/johnowhitaker/raw/master/code_mosaic.png" alt='profile pic'/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:)
