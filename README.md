@@ -8,6 +8,8 @@ Guess who has finally got around to trying a custom README! I'll hopefully be ex
 
 My blog: https://datasciencecastnet.home.blog/
 
+Data Science Castnet YouTube Channel: https://www.youtube.com/channel/UCP6gT9X2oXYcssfZu05RV2g
+
 My CV: [PDF version](https://github.com/johnowhitaker/johnowhitaker/blob/master/Jonathan_Whitaker_CV_April_2022.pdf) (slightly outdated CV website with more details: https://johnowhitaker.github.io/cv/) 
 
 Reach me on Twitter: https://twitter.com/johnowhitaker
