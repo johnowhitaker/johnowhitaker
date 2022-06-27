@@ -14,7 +14,7 @@ My CV: [PDF version](https://github.com/johnowhitaker/johnowhitaker/blob/master/
 
 Reach me on Twitter: https://twitter.com/johnowhitaker
 
-Last year in code activity (April 2021 - March 2022, data from my uLogMe logs):
-<img src="https://github.com/johnowhitaker/johnowhitaker/raw/master/code_mosaic.png" alt='profile pic'/>
+Last year in code activity (up to June 2022, data from my uLogMe logs):
+<img src="https://github.com/johnowhitaker/johnowhitaker/raw/master/code_mosaic_june_22.png" alt='profile pic'/>
 
 :)
