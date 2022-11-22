@@ -13,8 +13,3 @@ Data Science Castnet YouTube Channel: https://www.youtube.com/channel/UCP6gT9X2o
 My CV: [PDF version](https://github.com/johnowhitaker/johnowhitaker/blob/master/Jonathan_Whitaker_CV_April_2022.pdf) (slightly outdated CV website with more details: https://johnowhitaker.github.io/cv/) 
 
 Reach me on Twitter: https://twitter.com/johnowhitaker
-
-Last year in code activity (up to June 2022, data from my uLogMe logs):
-<img src="https://github.com/johnowhitaker/johnowhitaker/raw/master/code_mosaic_june_22.png" alt='profile pic'/>
-
-:)
