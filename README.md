@@ -6,6 +6,8 @@ Hi there!
 
 Guess who has finally got around to trying a custom README! I'll hopefully be expanding this soon, but for now have some key links:
 
+My Website: johnowhitaker.dev
+
 My blog: https://datasciencecastnet.home.blog/
 
 Data Science Castnet YouTube Channel: https://www.youtube.com/channel/UCP6gT9X2oXYcssfZu05RV2g
