@@ -6,7 +6,7 @@ Hi there!
 
 Guess who has finally got around to trying a custom README! I'll hopefully be expanding this soon, but for now have some key links:
 
-My Website: johnowhitaker.dev
+My Website: https://johnowhitaker.dev
 
 My blog: https://datasciencecastnet.home.blog/
 
